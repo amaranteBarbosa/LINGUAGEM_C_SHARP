@@ -1,0 +1,15 @@
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\ref\PrimeiroProjeto.dll
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+C:\Leitura_de_Livros\ORIENTACAO_A_OBJETOS_COM_C-SHARP\PROJETO\Capitulo02\Capitulo02\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
